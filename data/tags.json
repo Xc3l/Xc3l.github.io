@@ -1,0 +1,37 @@
+[   {
+        "id": "gj",
+        "label": "Game Jam"
+    },
+    {
+        "id": "gd",
+        "label": "Game Design"
+    },
+    {
+        "id":"js",
+        "label":"Jeux de société"
+    },    
+    {
+        "id": "ld",
+        "label": "Level Design"
+    },
+    {
+        "id": "2d",
+        "label": "Infographie 2D"
+    },
+    {
+        "id": "3d",
+        "label": "Infographie 3D"
+    },
+    {
+        "id":"prog",
+        "label":"Développement"
+    },
+    {
+        "id": "web",
+        "label": "Projet Web"
+    },
+    {
+        "id": "av",
+        "label": "Audiovisuel"
+    }
+]
