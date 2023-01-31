@@ -181,19 +181,5 @@
     "img": "assets/img/jpg/Warhol.jpg",
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
-},{
-    "name": "Level Design d'un niveau de Left4Dead",
-    "tags": ["ld"],
-    "img": "assets/img/#",
-    "description": "En cours",
-    "images": [{ "url": "assets/img/#", "legende": "Petite légende" }, { "url": "assets/img/#", "legende": "Petite légende" }],
-    "buttons": [{
-        "name": "Voir le projet",
-        "icon": "launch",
-        "link": "https://davall.fr"
-    },{
-        "name": "Vidéo",
-        "link": "https://davall.fr"
-    }]
 }
 ]
