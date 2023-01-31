@@ -1,7 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Céline WANG • Portfolio</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <h2>Céline <b>WANG</b></h2>
+        <ul></ul>
+    </header>
+    <main>
+        <section id="home">
+            <h2 class="title" style="display: none;">Accueil</h2>
+            <div class="text-nb">
+                <p>Étudiante dans le jeu-vidéo</p>
+                <h1>Céline <b>WANG</b></h1>
+                <p>Actuellement étudiante en licence professionnel de jeux vidéo à l'IUT de Bobigny.
+                    Je suis à la recherche d'un stage dans le domaine des jeux vidéo en tant que Game Designer ou/et Level Designer.
+                    Suite à mon DUT MMI, j'ai gagné de l'expérience dans la création de jeux vidéo en licence professionnelle.
+                    Je voudrais dorénavant concevoir des jeux et de faire découvrir mes créations aux autres dans un contexte professionnel.</p>
+            </div>
+        </section>
+        <section id="cv">
+            <h2 class="title">Mon <b>profil</b></h2>
+            <p>Etudiante en Game Design et Level Design de <b class="age">20</b> ans, je suis actuellement à la recherche d'un <b>stage</b> dans le secteur du jeu vidéo.</p>
+            <p>Il débute le <b>27 mars 2022</b> et a une durée minimum de <b>14</b> semaines.</p>
+            <div class="card">
+                <img src="assets/img/cv.png" alt="Mon CV">
+                <div class="content">
+                    <h2 class="title">Mon <b>CV</b></h2>
+                    <p>PDF • 53.7 Ko</p>
+                    <div class="buttons">
+                        <a class="button" href="data/cv.pdf" download="KieranMIGNON-CV.pdf"><span class="material-symbols-outlined">download</span> Télécharger</a>
+                        <a class="button icon" href="data/cv.pdf" target="_blank"><span class="material-symbols-outlined">open_in_new</span></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="projects">
+            <h2 class="title">Mes <b>projets</b></h2>
+            <div id="tags-list"></div>
+            <div id="projects-list">
+                <div class="empty-projects">
+                    <p>Aucun projet n'a été trouvé.</p>
+                </div>
+            </div>
+        </section>
+        <section id="contact">
+            <h2 class="title">Me <b>contacter</b></h2>
+            <p>Mon profil vous intéresse ? N'hésitez pas à me contacter par mail pour prendre un café ou tout simplement discuter.</p>
+            <div class="buttons socials"></div>
+        </section>
+    </main>
+    <section id="project-modal" style="display: none;">
+        <button class="close"><span>x</span></button>
+    </section>
+    <section id="image-modal" style="display: none;">
+        <button class="close"><span>x</span></button>
+    </section>
+    <footer>
+        <p>&copy; 2022. Site web développé par <a href="https://davall.fr">DavAll</a>.</p>
+    </footer>
+    <script src="assets/js/nav.js"></script>
+    <script src="assets/js/projects.js"></script>
 </body>
+
 </html>
