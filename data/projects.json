@@ -58,7 +58,7 @@
     "buttons": [{
         "name": "Accéder au jeu",
         "icon": "launch",
-        "link": "https://cwang.velizy-mmi.o2switch.site/Jeu/"
+        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Jeu/"
     }]
 },{
     "name": "VRGame - PocketMonster",
