@@ -181,5 +181,37 @@
     "img": "assets/img/jpg/Warhol.jpg",
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
-}
+},{
+    "name": "GGJ - Cour-je ?",
+    "tags": ["gj","gd","2d"],
+    "img": "",
+    "description": "",
+    "images": [{ "url": "", "legende": "" }],
+    "buttons": [{
+        "name": "Accéder au jeu",
+        "icon": "launch",
+        "link": "https://alans-tagioo.itch.io/cours-je"
+    }]
+},{
+    "name": "GGJ - Cour-je ?",
+    "tags": ["gj","gd","2d"],
+    "img": "",
+    "description": "",
+    "images": [{ "url": "", "legende": "" }],
+    "buttons": [{
+        "name": "Accéder au jeu",
+        "icon": "launch",
+        "link": "https://alans-tagioo.itch.io/cours-je"
+    }]
+},{
+    "name": "Projet sur Unreal Engine",
+    "tags": ["ld"],
+    "img": "",
+    "description": "",
+    "images": [{ "url": "", "legende": "" }],
+    "buttons": [{
+        "name": "Vidéo walkthrough du jeu",
+        "icon": "launch",
+        "link": ""
+    }]}
 ]
