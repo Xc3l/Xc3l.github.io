@@ -84,8 +84,7 @@
     },{
         "name": "LD sur Figma",
         "icon": "launch",
-        "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"
-    }]
+        "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"}]
 },{
     "name": "Gobelina",
     "tags": ["js","gj","gd","2d"],
@@ -101,8 +100,7 @@
     "buttons": [{
         "name": "Voir le concept du jeu",
         "icon": "launch",
-        "link": "https://www.canva.com/design/DAE4T5F7JN0/YUmlRQPetRrVW3H-2-3UFA/view?utm_content=DAE4T5F7JN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
-    }]
+        "link": "https://www.canva.com/design/DAE4T5F7JN0/YUmlRQPetRrVW3H-2-3UFA/view?utm_content=DAE4T5F7JN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"}]
 },{
     "name": "Affiche cinématographique",
     "tags": ["2d"],
@@ -128,8 +126,7 @@
     },{
         "name": "Voir le deuxième book d'écriture",
         "icon": "launch",
-        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Book/wang_celine_MMI2A2_bookS2.pdf"
-    }]
+        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Book/wang_celine_MMI2A2_bookS2.pdf"}]
 },{
     "name": "Carte de voeux",
     "tags": ["2d"],
@@ -139,8 +136,7 @@
     "buttons": [{
         "name": "Voir les étapes de conception",
         "icon": "launch",
-        "link": "https://www.canva.com/design/DAETgdRg2oc/kz9M4S9sTwDF8b_5JH24Ug/edit?utm_content=DAETgdRg2oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    }]
+        "link": "https://www.canva.com/design/DAETgdRg2oc/kz9M4S9sTwDF8b_5JH24Ug/edit?utm_content=DAETgdRg2oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}]
 },{
     "name": "Site Halloween Disney",
     "tags": ["prog","web"],
@@ -150,8 +146,7 @@
     "buttons": [{
         "name": "Voir le site",
         "icon": "launch",
-        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Halloween/"
-    }]
+        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Halloween/"}]
 },{
     "name": "Interstellor",
     "tags": ["av"],
@@ -161,8 +156,7 @@
     "buttons": [{
         "name": "Voir la vidéo",
         "icon": "launch",
-        "link": "https://youtu.be/BF_ruI9aXJ0"
-    }]
+        "link": "https://youtu.be/BF_ruI9aXJ0"}]
 },{
     "name": "Poissons",
     "tags": ["2d"],
@@ -190,8 +184,7 @@
     "buttons": [{
         "name": "Accéder au jeu",
         "icon": "launch",
-        "link": "https://alans-tagioo.itch.io/cours-je"
-    }]
+        "link": "https://alans-tagioo.itch.io/cours-je"}]
 },{
     "name": "GGJ - Cour-je ?",
     "tags": ["gj","gd","2d"],
@@ -201,8 +194,7 @@
     "buttons": [{
         "name": "Accéder au jeu",
         "icon": "launch",
-        "link": "https://alans-tagioo.itch.io/cours-je"
-    }]
+        "link": "https://alans-tagioo.itch.io/cours-je"}]
 },{
     "name": "Projet sur Unreal Engine",
     "tags": ["ld", "prog"],
@@ -212,7 +204,6 @@
     "buttons": [{
         "name": "Vidéo walkthrough du jeu",
         "icon": "launch",
-        "link": ""
-    }]
+        "link": ""}]
 }
 ]
