@@ -186,16 +186,6 @@
         "icon": "launch",
         "link": "https://alans-tagioo.itch.io/cours-je"}]
 },{
-    "name": "GGJ - Cour-je ?",
-    "tags": ["gj","gd","2d"],
-    "img": "",
-    "description": "",
-    "images": [{ "url": "", "legende": "" }],
-    "buttons": [{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://alans-tagioo.itch.io/cours-je"}]
-},{
     "name": "Projet sur Unreal Engine",
     "tags": ["ld", "prog"],
     "img": "",
