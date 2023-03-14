@@ -1,0 +1,418 @@
+:root{
+	--orange: #CC3A00;
+	--jaune:  #E7B949;
+	--noir:  #000000;
+	--blanc:  #FFFFFF;
+}
+
+a {
+	color: var(--jaune);
+}
+
+body {
+	background-image: url("../images/visuel-halloween.jpg");
+	background-size: 30rem;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-color: var(--noir);
+
+	font-size: 16px;
+	text-align: center;
+	color: var(--blanc);
+
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	position: absolute;
+	writing-mode: vertical-lr;
+    text-orientation: sideways-right;
+    transform: rotate(180deg);
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-top: -2.5rem;
+    margin-left: 2rem;
+ 
+}
+
+main {
+	background-image: url("../images/bois1.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+
+	margin-top: 20rem
+}
+
+
+h1, h2 {
+	font-family: "Titre";
+	font-weight: 400;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+h1 {
+	color: var(--jaune);
+	text-align: center;
+	line-height: 2.2rem;
+	margin: auto;
+}
+
+img{
+	position: absolute;
+}
+
+h2 {
+	color: var(--orange);
+	text-align: left;
+	width: 83%;
+	margin: 3.9375rem 0.9375rem 3.9375rem 2.5rem;
+}
+
+em {
+	color: var(--orange);
+	font-size: 1.375rem;
+	display: block;
+	margin: -0.3rem 0 -0.1rem 0;
+}
+
+h3 {
+	font-family: "Open Sans Semi-bold";
+	text-align: right;
+	text-transform: uppercase;
+	color: var(--orange);
+	margin-right: 2rem;
+}
+
+p {
+	font-family: "Texte";
+	font-size: 1.25rem;
+	text-align: left;
+	line-height: 1.9rem;
+	margin: 3.4375rem 1.875rem 3.75rem 1.875rem;
+}
+
+span {
+	color: var(--jaune);
+}
+
+button {
+	font-family: "Texte";
+	font-size: 2.1875rem;
+	text-align: center;
+	text-transform: uppercase;
+
+	background-image: linear-gradient(to bottom, #FFF9D1 0%, #F1DC8D 50%, #C8951A 100%);
+
+	border: 0.0625rem solid #FFD100;
+	border-radius: 1.5625rem;
+
+	width: 11.25rem;
+	height: 3.125rem;
+
+	box-shadow: 0px 0px 10px rgba(241, 220, 141, 1);
+}
+
+ul {
+	font-family: "Texte";
+	font-size: 1.25rem;
+	text-align: left;
+	line-height: 1.9rem;
+
+	list-style: none;
+
+	width: 75%;
+
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	text-indent: -0.7rem;
+
+	padding-left: 3.4rem;
+}
+
+li::before {
+	content: "• ";
+	color: var(--orange);
+}
+
+form {
+	margin: auto;
+}
+
+label {
+	display: block;
+
+	font-family: "Texte";
+	font-size: 1rem;
+	text-align: left;
+	text-transform: uppercase;
+
+	margin: 1.5625rem 0 0.4375rem 2rem;
+}
+
+input {
+	font-family: "Texte";
+	font-size: 1.25rem;
+	color: var(--jaune);
+
+	background-color: rgba(204, 58, 0, 0.25);
+	border: none;
+	border-bottom: 0.0625rem solid var(--orange);
+
+	width: 20.875rem;
+	height: 2.5rem;
+
+	padding: 0.25rem 0 0 1.4rem;
+}
+
+select {
+	font-family: "Texte";
+	font-size: 1.25rem;
+	color: var(--orange);
+
+	background-color: rgba(204, 58, 0, 0.25);
+	border: none;
+	border-bottom: 0.0625rem solid var(--orange);
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+
+	width: 22.1rem;
+	height: 2.80rem;
+
+	margin: auto;
+	margin-bottom: 0.625rem;
+	padding: 0.25rem 0 0 1.4rem;
+}
+
+#disney{
+	display: none;
+}
+
+#bois{
+	display: none;
+}
+
+
+#un {
+	text-align: center;
+
+	margin: auto;
+	margin-bottom: 3.9375rem;
+	padding-top: 3.1rem;
+}
+
+#tas {
+	margin-top: 0;
+}
+
+#titre-fanbox {
+	margin-bottom: 0;
+}
+
+#fanbox, #reduction {
+	margin: 0.4rem 0 0 2.5rem;
+}
+
+#titre-reduction {
+	font-size: 1.875rem;
+
+	margin: 3.125rem 0 0 2.5rem;
+}
+
+#reduction {
+	width: 80%;
+}
+
+#formulaire {
+	margin-top: 6.5625rem;
+	margin-bottom: 2.1875rem;
+}
+
+
+#commentaire {
+	font-family: "Open Sans";
+	font-size: 0.75rem;
+	color: var(--blanc);
+
+	margin: 0 0 0 2rem;
+}
+
+#end-form {
+	margin-bottom: 3.3125rem;
+}
+
+#jouer {
+	margin-bottom: 3.4375rem;
+}
+
+#mentions-legales {
+	margin-bottom: 1.875rem;
+}
+#chauveh1{
+	margin : -1.5rem;
+}
+
+#chauveh1_2{
+	margin-top: 1.5rem;
+	margin-left: -1rem; 
+}
+
+#chauveform1{
+	margin-left: -7rem;
+}
+
+#chauveform2{
+	margin-top: 2rem;
+	margin-left: -2rem;
+}
+
+.participation {
+	margin-bottom: 5rem;
+}
+
+.fleche {
+	background-image:
+		linear-gradient(45deg, transparent 50%, var(--noir) 50%),
+		linear-gradient(135deg, var(--noir) 50%, transparent 50%),
+		linear-gradient(to right, var(--orange), var(--orange));
+	background-position:
+		calc(100% - 1.40rem) calc(1em + 0.5px),
+		calc(100% - 0.90rem) calc(1em + 0.5px),
+		100% 0;
+	background-size:
+		7px 7px,
+		7px 7px,
+		2.2em 2.2em;
+	background-repeat: no-repeat;
+}
+
+.fin-formulaire {
+	display: block;
+
+	font-family: "Open Sans";
+	font-size: 0.75rem;
+	text-transform: inherit;
+	color: var(--blanc);
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	cursor: pointer;
+
+	position: relative;
+	margin: 1.875rem 0 0 1.25rem;
+	padding: 0 1.6875rem 0 2rem;
+}
+
+.fin-formulaire input {
+	opacity: 0;
+
+	cursor: pointer;
+
+	height: 0;
+	width: 0;
+
+	position: absolute;
+}
+
+.checkmark {
+	background-color: rgba(204, 58, 0, 0.25);
+
+	height: 1rem;
+	width: 1rem;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.fin-formulaire input:checked ~ .checkmark {
+  background-color: var(--orange);
+}
+
+.checkmark:after {
+  content: "";
+  
+  display: none;
+  
+  position: absolute;
+}
+
+.fin-formulaire input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.fin-formulaire .checkmark:after {
+  border: solid var(--blanc);
+
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  width: 0.2rem;
+  height: 0.5rem;
+
+  left: 0.3rem;
+  top: 0;
+}
+
+.chauveliste{
+	margin-top: -0.5rem;
+	margin-left: -2.5rem;
+}
+
+.chauvebouton{
+	margin-left: -5.4rem;
+	margin-top: -2rem;
+}
+
+@media screen and (min-width: 750px) {
+  body {
+  	background-image: none;
+  	display: flex;
+  	justify-content: flex-start;
+  }
+
+  main{
+  	background-image: none;
+  	width: 50%;
+  	margin-top: 0;
+  	margin-left: 45rem;
+  }
+
+  header{
+  	z-index: 0;
+  	margin-top: 39rem;
+  	margin-left: 5rem;
+  	position: fixed;
+  }
+
+
+  #disney{
+	display: block;
+	position: fixed;
+	width: 65rem;
+	height: 45rem;
+	left: -9rem;
+	z-index: -2;
+  }
+
+  #bois{
+  	display: block;
+  	position: fixed;
+  	width: 13.6rem;
+  	z-index: -1;
+
+  }
+}

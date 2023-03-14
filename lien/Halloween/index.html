@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/webfonts.css">
+
+	<title>Halloween</title>
+</head>
+
+<body>
+	
+	<header>
+		<strong>©Disney</strong>
+	</header>
+	<img src="images/visuel-halloween.jpg" id="disney">
+
+	
+	<main>
+		<img src="images/bois.png" id="bois">
+		<h2 id="un">Avec Segafredo,<br>faites le plein de frissons !</h2>
+
+		<h1><img src="images/chauve1.png" id="chauveh1">Un séjour machiavélique à Disneyland® Paris
+		<em>et de nombreux autres lots</em> à gagner !<img src="images/chauve2.png" id="chauveh1_2"></h1>
+
+		<p>Café officiel de Disneyland® Paris, Segafredo vous invite à braver vos peurs pendant <span>le Festival Halloween Disney</span> et à plonger dans une ambiance espiègle pleine de surprises.</p>
+
+		<a href="#formulaire"><button class="participation"><img src="images/chauve5.png" class="chauvebouton">Jouez !</button></a>
+
+		<p class="participation" id="tas">Votre participation sera prise en compte pour le tirage au sort du XX/XX/XXXX qui désignera les gagnants de :</p>
+
+		<h2><img src="images/chauve3.png" class="chauveliste">un séjour à Disneyland® Paris pour deux personnes</h2>
+
+		<h2><img src="images/chauve3.png" class="chauveliste">Des entrées pour deux personnes à Disneyland® Paris</h2>
+
+		<h2 id="titre-fanbox"><img src="images/chauve3.png" class="chauveliste">50 “fan box”</h2>
+
+		<p id="fanbox">Composée de :</p>
+
+		<ul>
+			<li>1 peluche</li>
+			<li>1 tee-shirt</li>
+			<li>2 paquets de café (1 Premium d’Arôme n°8 + 1 Espresso Casa)</li>
+			<li>1 bon de réduction</li>
+		</ul>
+
+		<h2 id="titre-reduction"><img src="images/chauve3.png" class="chauveliste">1000 Bons de réduction</h2>
+
+		<p id="reduction">À valoir sur votre prochain achat de café Segafredo Premium d'Arôme</p>
+
+		<h1 id="formulaire"><img src="images/chauve1.png" id="chauveform1">Pour jouer,<br> remplissez ce formulaire :<img src="images/chauve2.png" id="chauveform2"></h1>
+
+		<form action="formulaire.php" method="post">
+			
+			<label for="firstname">Prénom  :</label>
+			<input type="text" name="firstname" value="Fabien" required>
+
+			<label for="name">Nom  :</label>
+			<input type="text" name="name" value="Loddo" required>
+
+			<label for="birthdate">Date de naissance  :</label>
+			<select class="fleche" name="day" required>
+				<option class="date" value="">JJ</option>
+				<option value="01">01</option>
+				<option value="02">02</option>
+				<option value="03">03</option>
+				<option value="04">04</option>
+				<option value="05">05</option>
+				<option value="06">06</option>
+				<option value="07">07</option>
+				<option value="08">08</option>
+				<option value="09">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+				<option value="18">18</option>
+				<option value="19">19</option>
+				<option value="20">20</option>
+				<option value="21">21</option>
+				<option value="22">22</option>
+				<option value="23">23</option>
+				<option value="24">24</option>
+				<option value="25">25</option>
+				<option value="26">26</option>
+				<option value="27">27</option>
+				<option value="28">28</option>
+				<option value="29">29</option>
+				<option value="30">30</option>
+				<option value="31">31</option>
+			</select>
+
+			<select class="fleche" name="month" required>
+				<option class="date" value="">MM</option>
+				<option value="01">Janvier</option>
+				<option value="02">Février</option>
+				<option value="03">Mars</option>
+				<option value="04">Avril</option>
+				<option value="05">Mai</option>
+				<option value="06">Juin</option>
+				<option value="07">Juillet</option>
+				<option value="08">Août</option>
+				<option value="09">Septembre</option>
+				<option value="10">Octobre</option>
+				<option value="11">Novembre</option>
+				<option value="12">Décembre</option>
+			</select>
+
+			<select class="fleche" id="annee" name="year" required>
+				<option class="date" value="">AAAA</option>
+				<option value="2003">2003</option>
+				<option value="2002">2002</option>
+				<option value="2001">2001</option>
+				<option value="2000">2000</option>
+				<option value="1999">1999</option>
+				<option value="1998">1998</option>
+				<option value="1997">1997</option>
+				<option value="1996">1996</option>
+				<option value="1995">1995</option>
+				<option value="1994">1994</option>
+				<option value="1993">1993</option>
+				<option value="1992">1992</option>
+				<option value="1991">1991</option>
+				<option value="1990">1990</option>
+				<option value="1989">1989</option>
+				<option value="1988">1988</option>
+				<option value="1987">1987</option>
+				<option value="1986">1986</option>
+				<option value="1985">1985</option>
+				<option value="1984">1984</option>
+				<option value="1983">1983</option>
+				<option value="1982">1982</option>
+				<option value="1981">1981</option>
+				<option value="1980">1980</option>
+			</select>
+
+			<label for="mail">Adresse e-mail  :</label>
+			<input type="email" name="mail" required>
+
+			<label for="postaddress">Adresse postale  :</label>
+			<input type="text" name="postaddress" required>
+
+			<label for="postcode">Code postal  :</label>
+			<input type="number" name="postcode" required>
+
+			<label for="calculation">Combien font 3 plus 2 ?</label>
+			<input type="number" name="calculation" required>
+
+
+			<p id="commentaire">(afin de nous montrer que vous n'êtes pas un robot)</p>
+
+			<label class="fin-formulaire" name="reglement">J'accepte le traitement de mes données personnelles conformément au présent formulaire et déclare avoir lu et accepté le <a href="#">règlement du jeu</a>
+				<input class="select" type="checkbox">
+				<span class="checkmark"></span>
+			</label>
+
+			<label class="fin-formulaire" id="end-form" name="newsletter">Je souhaite recevoir par mail des informations<br>de Segafredo et de ses marques partenaires via la newsletter <a href="#">segafredo.fr</a>
+				<input type="checkbox">
+				<span class="checkmark"></span>
+			</label>
+
+			<button id="jouer"><img src="images/chauve5.png" class="chauvebouton">Jouez !</button>
+		</form>
+
+		<h3>Règlement<img src="images/chauve4.png"></h3>
+		<h3 id="mentions-legales">Mentions légales</h3>
+	</main>
+</body>
+
+</html>
