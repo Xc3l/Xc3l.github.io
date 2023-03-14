@@ -58,7 +58,7 @@
     "buttons": [{
         "name": "Accéder au jeu",
         "icon": "launch",
-        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Jeu/"
+        "link": "https://celinewangjv.fr/lien/Kirby"
     }]
 },{
     "name": "VRGame - PocketMonster",
@@ -122,11 +122,16 @@
     "buttons": [{
         "name": "Voir le premier book d'écriture",
         "icon": "launch",
-        "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Book/book_wang_celine_B2.pdf"
+        "link": "https://celinewangjv.fr/lien/Book/bookS1.pdf"
     },{
         "name": "Voir le deuxième book d'écriture",
         "icon": "launch",
+<<<<<<< Updated upstream
         "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Book/wang_celine_MMI2A2_bookS2.pdf"}]
+=======
+        "link": "https://celinewangjv.fr/lien/Book/bookS3.pdf"
+    }]
+>>>>>>> Stashed changes
 },{
     "name": "Carte de voeux",
     "tags": ["2d"],
@@ -146,7 +151,12 @@
     "buttons": [{
         "name": "Voir le site",
         "icon": "launch",
+<<<<<<< Updated upstream
         "link": "https://cwang.velizy-mmi.o2switch.site/MMI/Halloween/"}]
+=======
+        "link": "https://celinewangjv.fr/lien/Halloween/"
+    }]
+>>>>>>> Stashed changes
 },{
     "name": "Interstellor",
     "tags": ["av"],
