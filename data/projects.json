@@ -197,5 +197,15 @@
         "name": "Vidéo walkthrough du jeu",
         "icon": "launch",
         "link": ""}]
+},{
+    "name": "PFE - Booom!",
+    "tags": ["gd","ld", "3d"],
+    "img": "",
+    "description": "",
+    "images": [{ "url": "", "legende": "" }],
+    "buttons": [{
+        "name": "Accéder au jeu",
+        "icon": "launch",
+        "link": "https://purpleluma.itch.io/booom"}]
 }
 ]
