@@ -200,12 +200,17 @@
 },{
     "name": "PFE - Booom!",
     "tags": ["gd","ld", "3d"],
-    "img": "",
-    "description": "",
-    "images": [{ "url": "", "legende": "" }],
+    "img": "assets/img/png/booomtitle.png",
+    "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
+    "images": [{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" },{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" }],
     "buttons": [{
+        "name": "Accéder au GDD",
+        "icon": "launch",
+        "link": "https://www.canva.com/design/DAFdX2r-cTA/PsEUfpFFtDpR3YOlYld2LQ/view?utm_content=DAFdX2r-cTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },{
         "name": "Accéder au jeu",
         "icon": "launch",
-        "link": "https://purpleluma.itch.io/booom"}]
+        "link": "https://purpleluma.itch.io/booom"}
+        ]
 }
 ]
