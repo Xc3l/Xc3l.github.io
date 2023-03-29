@@ -178,6 +178,12 @@
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
 },{
+    "name": "Level Design d'un niveau de Left4Dead",
+    "tags": ["ld"],
+    "img": "assets/img/png/BBGL4D.png",
+    "description": "Ce travail a été réalisé lors d'une conception de niveau en groupe pour Left4Dead, je me suis occupée de la première partie sur les 3 parties au total.",
+    "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
+},{
     "name": "GGJ - Cours-je ?",
     "tags": ["gj","gd","2d"],
     "img": "assets/img/png/coursje.png",
