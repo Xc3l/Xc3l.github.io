@@ -202,7 +202,7 @@
     "tags": ["gd","ld", "3d"],
     "img": "assets/img/png/booomtitle.png",
     "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
-    "images": [{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" },{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" }],
+    "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
     "buttons": [{
         "name": "Accéder au GDD",
         "icon": "launch",
