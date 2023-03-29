@@ -178,11 +178,11 @@
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
 },{
-    "name": "GGJ - Cour-je ?",
+    "name": "GGJ - Cours-je ?",
     "tags": ["gj","gd","2d"],
-    "img": "",
-    "description": "",
-    "images": [{ "url": "", "legende": "" }],
+    "img": "assets/img/png/coursje.png",
+    "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
+    "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
     "buttons": [{
         "name": "Accéder au jeu",
         "icon": "launch",
@@ -190,13 +190,13 @@
 },{
     "name": "Projet sur Unreal Engine",
     "tags": ["ld", "prog"],
-    "img": "",
-    "description": "",
-    "images": [{ "url": "", "legende": "" }],
+    "img": "assets/img/png/PF_LD.png",
+    "description": "Lors de ma formation en licence pro, j'ai appris à utiliser Unreal Engine et pour mettre en pratique mes connaissances, j'ai conçu et intégré un niveau entier à l'aide d'Unreal Engine.",
+    "images": [{ "url": "assets/img/png/PF_LD.png", "legende": "Aperçu du jeu" }],
     "buttons": [{
         "name": "Vidéo walkthrough du jeu",
         "icon": "launch",
-        "link": ""}]
+        "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
 },{
     "name": "PFE - Booom!",
     "tags": ["gd","ld", "3d"],
