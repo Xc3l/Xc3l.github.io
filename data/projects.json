@@ -1,5 +1,60 @@
 [
 {
+    "name": "Chanlexix",
+    "tags": ["gd"],
+    "img": "assets/img/png/chanlexix.png",
+    "description": "Chanlexix est un concept de jeu que j'ai créé lors d'un cours de Game Design. Le but était de créer un \"party game\". Je me suis inspirée du jeu \"Pédantix\". J'ai, par la suite, amélioré le game concept et j'ai créé un Game Design Document.",
+    "images": [{ "url": "assets/img/png/chanlexix.png", "legende": "Chanlexix" }],
+    "buttons": [{
+        "name": "Voir le concept",
+        "icon": "launch",
+        "link": "https://www.canva.com/design/DAFSPANJf_w/TRaLyC1-Y87157UKK-gP2Q/view?utm_content=DAFSPANJf_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },{
+        "name": "Voir le Game Design Document",
+        "icon": "launch",
+        "link": "https://celinewangjv.fr/lien/Chanlexix.pdf"
+    }]
+},{
+    "name": "PFE - Booom!",
+    "tags": ["gd","ld", "3d"],
+    "img": "assets/img/png/booomtitle.png",
+    "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
+    "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
+    "buttons": [{
+        "name": "Accéder au GDD",
+        "icon": "launch",
+        "link": "https://www.canva.com/design/DAFdX2r-cTA/PsEUfpFFtDpR3YOlYld2LQ/view?utm_content=DAFdX2r-cTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },{
+        "name": "Accéder au jeu",
+        "icon": "launch",
+        "link": "https://purpleluma.itch.io/booom"}]
+},{
+    "name": "Projet sur Unreal Engine",
+    "tags": ["ld", "prog"],
+    "img": "assets/img/png/PF_LD.png",
+    "description": "Lors de ma formation en licence pro, j'ai appris à utiliser Unreal Engine et pour mettre en pratique mes connaissances, j'ai conçu et intégré un niveau entier à l'aide d'Unreal Engine.",
+    "images": [{ "url": "assets/img/png/PF_LD.png", "legende": "Aperçu du jeu" }],
+    "buttons": [{
+        "name": "Vidéo walkthrough du jeu",
+        "icon": "launch",
+        "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
+},{
+    "name": "GGJ - Cours-je ?",
+    "tags": ["gj","gd","2d"],
+    "img": "assets/img/png/coursje.png",
+    "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
+    "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
+    "buttons": [{
+        "name": "Accéder au jeu",
+        "icon": "launch",
+        "link": "https://alans-tagioo.itch.io/cours-je"}]
+},{
+    "name": "Level Design d'un niveau de Left4Dead",
+    "tags": ["ld"],
+    "img": "assets/img/png/BBGL4D.png",
+    "description": "Ce travail a été réalisé lors d'une conception de niveau en groupe pour Left4Dead, je me suis occupée de la première partie sur les 3 parties au total.",
+    "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
+},{
     "name": "Unijam 2022",
     "tags": ["gj","gd","2d"],
     "img": "assets/img/png/lifeline.png",
@@ -10,13 +65,7 @@
         "icon": "launch",
         "link": "https://thearias09.itch.io/lifeline"
     }]
-}, {
-    "name": "Ludum Dare 49",
-    "tags": ["gj","gd","prog"],
-    "img": "assets/img/png/taleofozelore_orig.png",
-    "description": "Le Ludum Dare est une Game Jam qui se déroule 2 fois par an. En 2021, j'ai participé à la 49ème édition, le thème était \"Unstable\". Dans la composition de notre équipe, j'étais programmeuse. Nous avons voulu crée un jeu de combat en multijoueur où les joueurs incarnaient des mages. En début de partie, ils choisissent deux éléments qu'ils veulent utiliser. Chaque élément produit un effet différent. La combinaison de certains sorts permettaient de blesser l'adversaire, défendre le lanceur mais également le blesser. Un vortex permettait aux joueurs de changer d'éléments pour attaquer. Malheureusement, nous n'avons pas pu établir un bon scoop et le jeu n'a pas été mis en ligne.",
-    "images": [{ "url": "assets/img/png/taleofozelore_orig.png", "legende": "Tales of Ozelore" }]
-}, {
+},{
     "name": "Rencontre franco-allemande",
     "tags": ["gj","gd"],
     "img": "assets/img/png/thegarden.png",
@@ -26,17 +75,6 @@
         "name": "Voir le concept",
         "icon": "launch",
         "link": "https://www.canva.com/design/DAFQ43Qz7VQ/HP_XIVqtyk_tUNQl_717hw/view?utm_content=DAFQ43Qz7VQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    }]
-},{
-    "name": "Chanlexix",
-    "tags": ["gd"],
-    "img": "assets/img/png/chanlexix.png",
-    "description": "Chanlexix est un concept de jeu que j'ai créé lors d'un cours de Game Design. Le but était de créer un \"party game\". Je me suis inspirée du jeu \"Pédantix\".",
-    "images": [{ "url": "assets/img/png/chanlexix.png", "legende": "Chanlexix" }],
-    "buttons": [{
-        "name": "Voir le concept",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFSPANJf_w/TRaLyC1-Y87157UKK-gP2Q/view?utm_content=DAFSPANJf_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     }]
 },{
     "name": "The Dark Labyrinth",
@@ -49,6 +87,12 @@
         "icon": "launch",
         "link": "https://www.canva.com/design/DAFTI83qPqA/P3DAVny11ecCc2cdz7G9Aw/view?utm_content=DAFTI83qPqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     }]
+},{
+    "name": "Gobelina",
+    "tags": ["js","gj","gd","2d"],
+    "img": "assets/img/png/gobelina.png",
+    "description": "Gobelina est un jeu de société créé en équipe lors d'une Game Jam de 5 jours. Le thème était \"The more you have, the worse it gets\". Le but de notre jeu est de finir second dans le classement de réputation, il faut donc bien gérer sa réputation. Je me suis occupée de l'écriture des règles, de la création des cartes, de la plastification des cartes et du plateau et de la découpe des cartes et des jetons en 3D.",
+    "images": [{ "url": "assets/img/png/gobelinaR.png", "legende": "Règles du jeu" }, { "url": "assets/img/jpg/cartesplateau.jpg", "legende": "Cartes et plateau" }, { "url": "assets/img/jpg/regles.jpg", "legende": "Livre des règles et jetons en bois" }, { "url": "assets/img/jpg/jetons.jpg", "legende": "Jetons du jeu" }]
 },{
     "name": "Kirby's Adventure",
     "tags": ["gd","ld","2d","prog"],
@@ -85,12 +129,6 @@
         "name": "LD sur Figma",
         "icon": "launch",
         "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"}]
-},{
-    "name": "Gobelina",
-    "tags": ["js","gj","gd","2d"],
-    "img": "assets/img/png/gobelina.png",
-    "description": "Gobelina est un jeu de société créé en équipe lors d'une Game Jam de 5 jours. Le thème était \"The more you have, the worse it gets\". Le but de notre jeu est de finir second dans le classement de réputation, il faut donc bien gérer sa réputation. Je me suis occupée de l'écriture des règles, de la création des cartes, de la plastification des cartes et du plateau et de la découpe des cartes et des jetons en 3D.",
-    "images": [{ "url": "assets/img/png/gobelinaR.png", "legende": "Règles du jeu" }, { "url": "assets/img/jpg/cartesplateau.jpg", "legende": "Cartes et plateau" }, { "url": "assets/img/jpg/regles.jpg", "legende": "Livre des règles et jetons en bois" }, { "url": "assets/img/jpg/jetons.jpg", "legende": "Jetons du jeu" }]
 },{
     "name": "MMI Game",
     "tags": ["js","gd","ld"],
@@ -178,45 +216,10 @@
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
 },{
-    "name": "Level Design d'un niveau de Left4Dead",
-    "tags": ["ld"],
-    "img": "assets/img/png/BBGL4D.png",
-    "description": "Ce travail a été réalisé lors d'une conception de niveau en groupe pour Left4Dead, je me suis occupée de la première partie sur les 3 parties au total.",
-    "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
-},{
-    "name": "GGJ - Cours-je ?",
-    "tags": ["gj","gd","2d"],
-    "img": "assets/img/png/coursje.png",
-    "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
-    "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
-    "buttons": [{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://alans-tagioo.itch.io/cours-je"}]
-},{
-    "name": "Projet sur Unreal Engine",
-    "tags": ["ld", "prog"],
-    "img": "assets/img/png/PF_LD.png",
-    "description": "Lors de ma formation en licence pro, j'ai appris à utiliser Unreal Engine et pour mettre en pratique mes connaissances, j'ai conçu et intégré un niveau entier à l'aide d'Unreal Engine.",
-    "images": [{ "url": "assets/img/png/PF_LD.png", "legende": "Aperçu du jeu" }],
-    "buttons": [{
-        "name": "Vidéo walkthrough du jeu",
-        "icon": "launch",
-        "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
-},{
-    "name": "PFE - Booom!",
-    "tags": ["gd","ld", "3d"],
-    "img": "assets/img/png/booomtitle.png",
-    "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
-    "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
-    "buttons": [{
-        "name": "Accéder au GDD",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFdX2r-cTA/PsEUfpFFtDpR3YOlYld2LQ/view?utm_content=DAFdX2r-cTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-        },{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://purpleluma.itch.io/booom"}
-        ]
+    "name": "Ludum Dare 49",
+    "tags": ["gj","gd","prog"],
+    "img": "assets/img/png/taleofozelore_orig.png",
+    "description": "Le Ludum Dare est une Game Jam qui se déroule 2 fois par an. En 2021, j'ai participé à la 49ème édition, le thème était \"Unstable\". Dans la composition de notre équipe, j'étais programmeuse. Nous avons voulu crée un jeu de combat en multijoueur où les joueurs incarnaient des mages. En début de partie, ils choisissent deux éléments qu'ils veulent utiliser. Chaque élément produit un effet différent. La combinaison de certains sorts permettaient de blesser l'adversaire, défendre le lanceur mais également le blesser. Un vortex permettait aux joueurs de changer d'éléments pour attaquer. Malheureusement, nous n'avons pas pu établir un bon scoop et le jeu n'a pas été mis en ligne.",
+    "images": [{ "url": "assets/img/png/taleofozelore_orig.png", "legende": "Tales of Ozelore" }]
 }
 ]
