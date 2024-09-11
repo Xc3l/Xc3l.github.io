@@ -156,8 +156,8 @@ header ul li a:hover {
 
 .big-square {
   border: solid 3px #a5dcff;
-  width: 20rem;
-  border-radius: 100%;
+  width: 25rem;
+  border-radius: 5%;
   overflow: hidden;
   box-shadow: 0 0.5rem 2rem rgba(216, 240, 255, 0.25);
   -webkit-animation: 5s ease-in-out infinite floatingAnimation;
@@ -211,7 +211,7 @@ main #home {
 }
 main #home .text-nb {
   margin: auto;
-  text-align: center;
+  text-align: justify;
   align-items: center;
 }
 main #home .text-nb h1 {
@@ -642,6 +642,7 @@ footer {
     opacity: 1;
   }
 }
+/*
 @-webkit-keyframes floatingAnimation {
   0% {
     transform: translateY(0);
@@ -664,6 +665,7 @@ footer {
     transform: translateY(0);
   }
 }
+*/
 @media screen and (max-width: 767px) {
   header {
     flex-direction: column;
@@ -696,9 +698,7 @@ footer {
     height: -moz-fit-content;
     height: fit-content;
   }
-  main #home .big-square {
-    width: 70%;
-  }
+
   .card {
     width: 100%;
   }
