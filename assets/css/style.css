@@ -31,6 +31,10 @@ h6 * {
   font-family: "Karla", sans-serif;
 }
 
+p{
+  font-size: 1.3rem;
+}
+
 html,
 body {
   margin: 0;
@@ -82,7 +86,7 @@ a.button {
   background: #a5dcff;
   color: #305771;
   border: none;
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   padding: 0.5rem 1rem;
   display: flex;
   align-items: center;
@@ -91,7 +95,7 @@ a.button {
   justify-content: center;
   transition: 200ms ease-in-out background, 200ms ease-in-out box-shadow;
   box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 button:hover,
 a.button:hover {
@@ -152,8 +156,7 @@ header ul li a:hover {
 
 .big-square {
   border: solid 3px #a5dcff;
-  width: 30rem;
-  height: 30rem;
+  width: 20rem;
   border-radius: 100%;
   overflow: hidden;
   box-shadow: 0 0.5rem 2rem rgba(216, 240, 255, 0.25);
@@ -182,7 +185,7 @@ header ul li a:hover {
 .text-nb.text {
   background: white;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   padding: 2rem;
   min-width: 20rem;
 }
@@ -200,6 +203,7 @@ main h2.title {
 }
 main #home {
   display: flex;
+  flex-direction: row-reverse;
   justify-content: flex-end;
   -moz-column-gap: 3rem;
        column-gap: 3rem;
@@ -218,10 +222,10 @@ main #home .text-nb h1 {
 }
 main #home .text-nb p {
   margin: 0;
-  max-width: 40rem;
+  max-width: 70rem;
 }
 main #home .text-nb p:first-child {
-  margin: 0 0 -1rem 0;
+  margin: 0 0 -0.75rem 0;
   color: #528db5;
 }
 main #projects .tag:hover {
@@ -238,7 +242,7 @@ main #projects .project {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   padding: 1rem 1.5rem;
   -moz-column-gap: 1rem;
        column-gap: 1rem;
@@ -278,7 +282,7 @@ main #projects .project .tags {
 main #projects .project .tags .tag {
   color: white;
   background: #305771;
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding: 0.35rem 0.75rem;
 }
 main #projects .project .tags .tag.active {
@@ -302,22 +306,34 @@ main #projects .empty-projects p {
 main #projects #tags-list,
 main #projects #projects-list {
   display: flex;
-  -moz-column-gap: 0.5rem;
-       column-gap: 0.5rem;
-  row-gap: 0.25rem;
   flex-wrap: wrap;
+  -moz-column-gap: 0.5rem;
+    column-gap: 0.5rem;
+  row-gap: 0.5rem;
+  -moz-column-gap: 0.5rem;
+  column-gap: 0.5rem;
+  row-gap: 0.5rem;
+
 }
 main #projects #tags-list#projects-list,
 main #projects #projects-list#projects-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   margin-top: 0.5rem;
   min-height: 8rem;
+}
+
+main #projects #tags-list#projects-list .project,
+main #projects #projects-list#projects-list .project {
+  width: 100%;
+  height: 100%;
 }
 
 .card {
   display: flex;
   width: 50%;
   height: 12rem;
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   background: white;
   color: #305771;
   overflow: hidden;
@@ -352,8 +368,8 @@ main #projects #projects-list#projects-list {
   background: white;
   color: #305771;
   padding: 0.4rem 1rem;
-  font-size: 0.95rem;
-  border-radius: 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 0.5rem;
   box-shadow: 0 0.25rem 0.25rem rgba(0, 0, 0, 0.1);
   transition: 200ms ease-in-out box-shadow, 200ms ease-in-out background, 200ms ease-in-out color;
 }
@@ -425,12 +441,11 @@ main #projects #projects-list#projects-list {
   left: 50%;
   transform: translate(-50%, -50%);
   background: white;
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 0.2);
   padding: 1rem 2rem;
   width: 75%;
   min-height: 40%;
-  height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
   max-height: 80%;
@@ -445,7 +460,6 @@ main #projects #projects-list#projects-list {
 #image-modal .modal.image-modal {
   background: transparent;
   padding: 0;
-  width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
   height: 90%;
@@ -486,7 +500,7 @@ main #projects #projects-list#projects-list {
 #image-modal .modal .tags .tag {
   color: white;
   background: #305771;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   padding: 0.35rem 0.75rem;
 }
 #project-modal .modal .tags .tag:hover,
@@ -653,24 +667,24 @@ footer {
 @media screen and (max-width: 767px) {
   header {
     flex-direction: column;
-  }
-  header h2 {
-    display: none;
+    padding-bottom: 2rem;
+    width: 100%;
+    height: auto;
   }
   header ul {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     width: 100%;
     margin: 0;
     padding: 0;
-    -moz-column-gap: 1rem;
-         column-gap: 1rem;
+    -moz-column-gap: 0.85rem;
+         column-gap: 0.85rem;
   }
-  main {
-    padding: 0;
+  header li > a {
+    font-size: 90%;
   }
   main #home {
-    padding-top: 8rem;
+    padding-top: 6rem;
     flex-direction: column;
     align-items: center;
   }
@@ -683,14 +697,22 @@ footer {
     height: fit-content;
   }
   main #home .big-square {
-    width: 100%;
-    height: 25rem;
+    width: 70%;
   }
   .card {
     width: 100%;
   }
   .card img {
     width: 30%;
+  }
+  .projectMain {
+    width: 100% !important;
+  }
+  .projectMain img {
+    width: 30% !important;
+  }
+  .project {
+    width: 80% !important;
   }
   #image-modal .modal.image-modal {
     width: 90%;

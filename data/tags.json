@@ -15,20 +15,12 @@
         "label": "Level Design"
     },
     {
-        "id": "2d",
-        "label": "Infographie 2D"
-    },
-    {
-        "id": "3d",
-        "label": "Infographie 3D"
+        "id": "graph",
+        "label": "Graphisme"
     },
     {
         "id":"prog",
         "label":"Développement"
-    },
-    {
-        "id": "web",
-        "label": "Projet Web"
     },
     {
         "id": "av",

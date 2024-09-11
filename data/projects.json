@@ -16,7 +16,7 @@
     }]
 },{
     "name": "PFE - Booom!",
-    "tags": ["gd","ld", "3d"],
+    "tags": ["gd","ld", "graph"],
     "img": "assets/img/png/booomtitle.png",
     "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
     "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
@@ -40,7 +40,7 @@
         "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
 },{
     "name": "GGJ - Cours-je ?",
-    "tags": ["gj","gd","2d"],
+    "tags": ["gj","gd","graph"],
     "img": "assets/img/png/coursje.png",
     "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
     "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
@@ -56,7 +56,7 @@
     "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
 },{
     "name": "Unijam 2022",
-    "tags": ["gj","gd","2d"],
+    "tags": ["gj","gd","graph"],
     "img": "assets/img/png/lifeline.png",
     "description": "Lifeline a été crée durant l'Unijam 2022. Le thème de la jam était \"La distance rend toute chose infiniment plus précieuse\". Nous étions une équipe composée de 2 personnes de la LPJV, 2 personnes de JIN et 3 personnes de l'ENSIIE. J'avais les rôles de Game designeuse et de graphiste. Le but du jeu est de protéger notre maison des cauchemars grâce à la \"Lifeline\", plus la Lifeline est longue plus elle fait de dégâts aux cauchemars. Attention, la Lifeline se raccourcit si les joueurs prennent des dégâts.",
     "images": [{ "url": "assets/img/png/lifeline.png", "legende": "Lifeline" }],
@@ -89,13 +89,13 @@
     }]
 },{
     "name": "Gobelina",
-    "tags": ["js","gj","gd","2d"],
+    "tags": ["js","gj","gd","graph"],
     "img": "assets/img/png/gobelina.png",
     "description": "Gobelina est un jeu de société créé en équipe lors d'une Game Jam de 5 jours. Le thème était \"The more you have, the worse it gets\". Le but de notre jeu est de finir second dans le classement de réputation, il faut donc bien gérer sa réputation. Je me suis occupée de l'écriture des règles, de la création des cartes, de la plastification des cartes et du plateau et de la découpe des cartes et des jetons en 3D.",
     "images": [{ "url": "assets/img/png/gobelinaR.png", "legende": "Règles du jeu" }, { "url": "assets/img/jpg/cartesplateau.jpg", "legende": "Cartes et plateau" }, { "url": "assets/img/jpg/regles.jpg", "legende": "Livre des règles et jetons en bois" }, { "url": "assets/img/jpg/jetons.jpg", "legende": "Jetons du jeu" }]
 },{
     "name": "Kirby's Adventure",
-    "tags": ["gd","ld","2d","prog"],
+    "tags": ["gd","ld","graph","prog"],
     "img": "assets/img/png/jeu.png",
     "description": "Kirby's Adventure est un jeu codé entièrement en javascript que j'ai créé en 1ère année de DUT MMI. Les étudiants devaient respecter des contraintes : nous devons mettre en avant les collisions avec le personnage jouable et avoir au moins 2 zones différentes dans le jeu.",
     "images": [{ "url": "assets/img/png/jeu.png", "legende": "Kirby's Adventure" }],
@@ -106,7 +106,7 @@
     }]
 },{
     "name": "VRGame - PocketMonster",
-    "tags": ["gd","3d"],
+    "tags": ["gd","graph"],
     "img": "assets/img/png/pocketmonster.png",
     "description": "PocketMonster est un jeu en réalité virtuelle crée en cours. Je me suis occupée de la modélisation de certains PocketMonster.",
     "images": [{ "url": "assets/img/png/pocketmonster.png", "legende": "PocketMonster" }],
@@ -131,7 +131,7 @@
         "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"}]
 },{
     "name": "MMI Game",
-    "tags": ["js","gd","ld"],
+    "tags": ["js","gd"],
     "img": "assets/img/png/mmigame.png",
     "description": "Lors de ma dernière année de DUT MMI, j'ai créé un jeu de société en équipe avec l'équipement du FabLab de l'IUT. Avec l'aide de 3 autres personnes, j'ai créé un jeu basé sur le DUT MMI de Vélizy. Il y a donc quelques références que seuls les étudiants du DUT MMI peuvent comprendre. C'est un jeu de plateau où le but du jeu est d'arriver à terminer les tours avec au moins 8 de moyenne général. Pour gagner ou perdre des points dans la moyenne, il y a des événements que peuvent rencontrer les joueurs en tombant sur les cases correspondantes.",
     "images": [{ "url": "assets/img/jpg/mmigame1.jpg", "legende": "Rendu final" }],
@@ -141,19 +141,19 @@
         "link": "https://www.canva.com/design/DAE4T5F7JN0/YUmlRQPetRrVW3H-2-3UFA/view?utm_content=DAE4T5F7JN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"}]
 },{
     "name": "Affiche cinématographique",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/jpg/affiche.jpg",
     "description": "J'ai réalisé ce travail en 1ère année de DUT MMI grâce à Photoshop. Il fallait aussi créer plusieurs déclinaisons de l'affiche.",
     "images": [{ "url": "assets/img/jpg/affiche.jpg", "legende": "Affiche" }, { "url": "assets/img/jpg/encart.jpg", "legende": "Encart" }, { "url": "assets/img/jpg/bandeau.jpg", "legende": "Bandeau" }]
 },{
     "name": "Axionométrie",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/png/wang_celine_MMI2_A2_colorisation.png",
     "description": "J'ai d'abord réalisé ce travail sur papier à l'aide d'un quadrillage, puis je suis passée sur Photoshop pour la colorisation. Les constructions des différents étudiants sont ensuite assemblés pour créer une ville sur une grande affiche.",
     "images": [{ "url": "assets/img/png/wang_celine_MMI2_A2_colorisation.png", "legende": "Rendu final" }]
 },{
     "name": "Book d'écriture",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/png/books1.png",
     "description": "Ces travaux ont été réalisé suite à l'écriture de plusieurs textes en cours de communication pratique durant les 2 années de DUT MMI. Je devais présenter les textes graphiquement dans un book. Les choix graphiques opérés ont contribué à mettre en valeur les textes en éclairant ou en orientant le sens.\n Le premier book d'écriture contient les textes suivants : \n Le texte du médecin (Chaval) et une réécriture du texte\nUne liste\nDes sigles et acronymes\nL'acrostiche de mon prénom\nUne définition de mot oublié\nUne écriture collaborative\n\nLe deuxième book d'écriture comporte les textes suivants :\nUn poème d'anniversaire\nUne question/réponse\nUn poème fondu\nUn haïku\nUn locurime\nUn limick\nUn poème ambulant",
     "images": [{ "url": "assets/img/png/books1.png", "legende": "Premier book" }, { "url": "assets/img/png/books3.png", "legende": "Deuxième book" }],
@@ -168,7 +168,7 @@
     }]
 },{
     "name": "Carte de voeux",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/jpg/carte.jpg",
     "description": "Cette carte a été créée pour l'année 2021, l'année du buffle. J'ai d'abord pris un buffle comme référence, puis je l'ai dessiné et enfin j'ai tracé des formes géométriques pour le rendu final.",
     "images": [{ "url": "assets/img/jpg/carte.jpg", "legende": "Rendu final" }],
@@ -178,7 +178,7 @@
         "link": "https://www.canva.com/design/DAETgdRg2oc/kz9M4S9sTwDF8b_5JH24Ug/edit?utm_content=DAETgdRg2oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}]
 },{
     "name": "Site Halloween Disney",
-    "tags": ["prog","web"],
+    "tags": ["prog"],
     "img": "assets/img/png/halloween.png",
     "description": "Ce site a été crée à partir d'une maquette. Les images et les polices étaient fournis, notre travail était d'écrire le HTML.",
     "images": [{ "url": "assets/img/png/halloween.png", "legende": "Site Halloween" }],
@@ -199,19 +199,19 @@
         "link": "https://youtu.be/BF_ruI9aXJ0"}]
 },{
     "name": "Poissons",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/jpg/poissons.jpg",
     "description": "Ce travail a été réalisé pour tester notre créativité. Il fallait créer un poisson différent pour chaque case et complexifié à chaque fois un peu plus la réflexion",
     "images": [{ "url": "assets/img/jpg/poissons.jpg", "legende": "Petits poissons" }]
 },{
     "name": "Ramifications",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/jpg/wang_celine_ramifications.jpg",
     "description": "Ce travail a été fait en vectoriel sur Photoshop, le but était de créer un labyrinthe grâce aux branches. Une autre ramification pouvait être collé sur le bord pour former un plus grand labyrinthe.",
     "images": [{ "url": "assets/img/jpg/wang_celine_ramifications.jpg", "legende": "Racines d'un arbre" }]
 },{
     "name": "Warhol",
-    "tags": ["2d"],
+    "tags": ["graph"],
     "img": "assets/img/jpg/Warhol.jpg",
     "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
     "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
