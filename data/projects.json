@@ -1,225 +1,280 @@
 [
-{
-    "name": "Chanlexix",
-    "tags": ["gd"],
-    "img": "assets/img/png/chanlexix.png",
-    "description": "Chanlexix est un concept de jeu que j'ai créé lors d'un cours de Game Design. Le but était de créer un \"party game\". Je me suis inspirée du jeu \"Pédantix\". J'ai, par la suite, amélioré le game concept et j'ai créé un Game Design Document.",
-    "images": [{ "url": "assets/img/png/chanlexix.png", "legende": "Chanlexix" }],
-    "buttons": [{
-        "name": "Voir le concept",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFSPANJf_w/TRaLyC1-Y87157UKK-gP2Q/view?utm_content=DAFSPANJf_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    },{
-        "name": "Voir le Game Design Document",
-        "icon": "launch",
-        "link": "https://celinewangjv.fr/lien/Chanlexix.pdf"
-    }]
-},{
-    "name": "PFE - Booom!",
-    "tags": ["gd","ld", "graph"],
-    "img": "assets/img/png/booomtitle.png",
-    "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
-    "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
-    "buttons": [{
-        "name": "Accéder au GDD",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFdX2r-cTA/PsEUfpFFtDpR3YOlYld2LQ/view?utm_content=DAFdX2r-cTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    {
+        "name": "Quelques dessins",
+        "tags": ["graph"],
+        "img": "",
+        "description": "Voici quelques dessins sur différents thèmes.",
+        "images": [{ "url": "", "legende": "" },{ "url": "", "legende": "" },{ "url": "", "legende": "" },{ "url": "", "legende": "" }]
+    },
+    {
+        "name": "Twinkling Faith",
+        "tags": ["gd", "gj"],
+        "img": "",
+        "description": "Twinkling Faith est un jeu créé lors de la GMTK Game Jam 2024.Le thème est Build to Scale. Nous sommes donc partis sur un jeu avec un compte de nombre de pas. Le but est d'avoir exactement le nombre de pas écrit sur la porte pour pouvoir l'ouvrir et accéder au prochain niveau.",
+        "images": [{ "url": "", "legende": "Twinkle Faith Menu" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://alans-tagioo.itch.io/twinkling-faith"
+        }]
+    },
+    {
+        "name": "TekuTeku : Fishing Adventure",
+        "tags": ["gd"],
+        "img": "",
+        "description": "TekuTeku : Fishing Adventure est un jeu d'aventure. Vous avez pour mission de retrouver l'élu, pour cela vous devez parcourir le monde en résolvant des énigmes.",
+        "images": [{ "url": "", "legende": "TekuTeku : Fishing Adventure Menu" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://xc3l.itch.io/tekuteku-fishing-adventure"
+        }]
+    },
+    {
+        "name": "Genesis",
+        "tags": ["gd", "ld"],
+        "img": "",
+        "description": "Genesis est travail collaboratif durant mon master MAJIC. J'ai essentiellement contribué au concept des mécaniques, à la création du level design et son intégration. Suite au manque de développement dans le projet, nous n'avons pas pu intégrer toutes les mécaniques.",
+        "images": [{ "url": "", "legende": "Genesis Logo" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://athenarc.itch.io/genesis"
+        }]
+    },
+    {
+        "name": "Pafia Masta",
+        "tags": ["gd"],
+        "img": "",
+        "description": "Pafia Masta est un jeu narratif, où vous incarnez la détective Gnocchitalian. Partez à la recherche de la vérité dans cet univers loufoque de pâtes.",
+        "images": [{ "url": "assets/img/png/pafiamastabanner.png", "legende": "Pafia Masta Logo" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://xc3l.itch.io/pafia-masta"
+        }]
+    },
+    {
+        "name": "Chanlexix",
+        "tags": ["gd"],
+        "img": "assets/img/png/chanlexix.png",
+        "description": "Chanlexix est un concept de jeu que j'ai créé lors d'un cours de Game Design. Le but était de créer un \"party game\". Je me suis inspirée du jeu \"Pédantix\". J'ai, par la suite, amélioré le game concept et j'ai créé un Game Design Document.",
+        "images": [{ "url": "assets/img/png/chanlexix.png", "legende": "Chanlexix" }],
+        "buttons": [{
+            "name": "Accéder au concept",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAFSPANJf_w/TRaLyC1-Y87157UKK-gP2Q/view?utm_content=DAFSPANJf_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
         },{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://purpleluma.itch.io/booom"}]
-},{
-    "name": "Projet sur Unreal Engine",
-    "tags": ["ld", "prog"],
-    "img": "assets/img/png/PF_LD.png",
-    "description": "Lors de ma formation en licence pro, j'ai appris à utiliser Unreal Engine et pour mettre en pratique mes connaissances, j'ai conçu et intégré un niveau entier à l'aide d'Unreal Engine.",
-    "images": [{ "url": "assets/img/png/PF_LD.png", "legende": "Aperçu du jeu" }],
-    "buttons": [{
-        "name": "Vidéo walkthrough du jeu",
-        "icon": "launch",
-        "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
-},{
-    "name": "GGJ - Cours-je ?",
-    "tags": ["gj","gd","graph"],
-    "img": "assets/img/png/coursje.png",
-    "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
-    "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
-    "buttons": [{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://alans-tagioo.itch.io/cours-je"}]
-},{
-    "name": "Level Design d'un niveau de Left4Dead",
-    "tags": ["ld"],
-    "img": "assets/img/png/BBGL4D.png",
-    "description": "Ce travail a été réalisé lors d'une conception de niveau en groupe pour Left4Dead, je me suis occupée de la première partie sur les 3 parties au total.",
-    "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
-},{
-    "name": "Unijam 2022",
-    "tags": ["gj","gd","graph"],
-    "img": "assets/img/png/lifeline.png",
-    "description": "Lifeline a été crée durant l'Unijam 2022. Le thème de la jam était \"La distance rend toute chose infiniment plus précieuse\". Nous étions une équipe composée de 2 personnes de la LPJV, 2 personnes de JIN et 3 personnes de l'ENSIIE. J'avais les rôles de Game designeuse et de graphiste. Le but du jeu est de protéger notre maison des cauchemars grâce à la \"Lifeline\", plus la Lifeline est longue plus elle fait de dégâts aux cauchemars. Attention, la Lifeline se raccourcit si les joueurs prennent des dégâts.",
-    "images": [{ "url": "assets/img/png/lifeline.png", "legende": "Lifeline" }],
-    "buttons": [{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://thearias09.itch.io/lifeline"
-    }]
-},{
-    "name": "Rencontre franco-allemande",
-    "tags": ["gj","gd"],
-    "img": "assets/img/png/thegarden.png",
-    "description": "En novembre 2022, j'ai participé à une rencontre franco-allemande organisé par Spiel Fabrique au CNAM d'Angoulême. C'était une mini jam dont le but était de créer un concept de jeu à propos de l'écologie, le public cible était des adolescents de 14 ans. J'étais dans une équipe composé de 2 allemands et de 1 française, nous avons donc communiqué en anglais tout au long de la jam.",
-    "images": [{ "url": "assets/img/png/thegarden.png", "legende": "The Garden" }],
-    "buttons": [{
-        "name": "Voir le concept",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFQ43Qz7VQ/HP_XIVqtyk_tUNQl_717hw/view?utm_content=DAFQ43Qz7VQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    }]
-},{
-    "name": "The Dark Labyrinth",
-    "tags": ["gd"],
-    "img": "assets/img/png/thedarklabyrinth.png",
-    "description": "The Dark Labyrinth est un concept de jeu créé à deux. Le but était d'exploiter au maximum un support choisi aléatoirement. Nous sommes tombés sur le support hybride, c'est à dire le support devait comporter au moins un élément virtuel et au moins un élément physique.",
-    "images": [{ "url": "assets/img/png/thedarklabyrinth.png", "legende": "The Dark Labyrinth" }],
-    "buttons": [{
-        "name": "Voir le concept",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAFTI83qPqA/P3DAVny11ecCc2cdz7G9Aw/view?utm_content=DAFTI83qPqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    }]
-},{
-    "name": "Gobelina",
-    "tags": ["js","gj","gd","graph"],
-    "img": "assets/img/png/gobelina.png",
-    "description": "Gobelina est un jeu de société créé en équipe lors d'une Game Jam de 5 jours. Le thème était \"The more you have, the worse it gets\". Le but de notre jeu est de finir second dans le classement de réputation, il faut donc bien gérer sa réputation. Je me suis occupée de l'écriture des règles, de la création des cartes, de la plastification des cartes et du plateau et de la découpe des cartes et des jetons en 3D.",
-    "images": [{ "url": "assets/img/png/gobelinaR.png", "legende": "Règles du jeu" }, { "url": "assets/img/jpg/cartesplateau.jpg", "legende": "Cartes et plateau" }, { "url": "assets/img/jpg/regles.jpg", "legende": "Livre des règles et jetons en bois" }, { "url": "assets/img/jpg/jetons.jpg", "legende": "Jetons du jeu" }]
-},{
-    "name": "Kirby's Adventure",
-    "tags": ["gd","ld","graph","prog"],
-    "img": "assets/img/png/jeu.png",
-    "description": "Kirby's Adventure est un jeu codé entièrement en javascript que j'ai créé en 1ère année de DUT MMI. Les étudiants devaient respecter des contraintes : nous devons mettre en avant les collisions avec le personnage jouable et avoir au moins 2 zones différentes dans le jeu.",
-    "images": [{ "url": "assets/img/png/jeu.png", "legende": "Kirby's Adventure" }],
-    "buttons": [{
-        "name": "Accéder au jeu",
-        "icon": "launch",
-        "link": "https://celinewangjv.fr/lien/Kirby"
-    }]
-},{
-    "name": "VRGame - PocketMonster",
-    "tags": ["gd","graph"],
-    "img": "assets/img/png/pocketmonster.png",
-    "description": "PocketMonster est un jeu en réalité virtuelle crée en cours. Je me suis occupée de la modélisation de certains PocketMonster.",
-    "images": [{ "url": "assets/img/png/pocketmonster.png", "legende": "PocketMonster" }],
-    "buttons": [{
-        "name": "Voir la vidéo",
-        "icon": "launch",
-        "link": "https://drive.google.com/file/d/1mdYSCqs-cNwBV4yvsSOvM92hcDdYba1k/view?usp=share_link"
-    }]
-},{
-    "name": "Sequena",
-    "tags": ["gd","ld"],
-    "img": "assets/img/png/sequana.png",
-    "description": "En DUT MMI, nous avons un projet tuteuré en groupe sur 1 an et demi. Le sujet du projet est défini par le groupe et nous avons choisi de créer un jeu de découverte et d'exploration. Je me suis occupée du Level Design, j'ai d'abord fait un croquis ensuite. J'ai également participé à la création du scénario, mais nous n'avons pas pu intégré tous les élément scénaristiques dans le jeu. Nous avions prévu de créer 3 niveaux au total.",
-    "images": [{ "url": "assets/img/png/sequana.png", "legende": "Sequena" }],
-    "buttons": [{
-        "name": "Accéder au site",
-        "icon": "launch",
-        "link": "https://sequana.agence-astrae.fr/index"
+            "name": "Accéder au Game Design Document",
+            "icon": "launch",
+            "link": "https://celinewangjv.fr/lien/Chanlexix.pdf"
+        }]
     },{
-        "name": "LD sur Figma",
-        "icon": "launch",
-        "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"}]
-},{
-    "name": "MMI Game",
-    "tags": ["js","gd"],
-    "img": "assets/img/png/mmigame.png",
-    "description": "Lors de ma dernière année de DUT MMI, j'ai créé un jeu de société en équipe avec l'équipement du FabLab de l'IUT. Avec l'aide de 3 autres personnes, j'ai créé un jeu basé sur le DUT MMI de Vélizy. Il y a donc quelques références que seuls les étudiants du DUT MMI peuvent comprendre. C'est un jeu de plateau où le but du jeu est d'arriver à terminer les tours avec au moins 8 de moyenne général. Pour gagner ou perdre des points dans la moyenne, il y a des événements que peuvent rencontrer les joueurs en tombant sur les cases correspondantes.",
-    "images": [{ "url": "assets/img/jpg/mmigame1.jpg", "legende": "Rendu final" }],
-    "buttons": [{
-        "name": "Voir le concept du jeu",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAE4T5F7JN0/YUmlRQPetRrVW3H-2-3UFA/view?utm_content=DAE4T5F7JN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"}]
-},{
-    "name": "Affiche cinématographique",
-    "tags": ["graph"],
-    "img": "assets/img/jpg/affiche.jpg",
-    "description": "J'ai réalisé ce travail en 1ère année de DUT MMI grâce à Photoshop. Il fallait aussi créer plusieurs déclinaisons de l'affiche.",
-    "images": [{ "url": "assets/img/jpg/affiche.jpg", "legende": "Affiche" }, { "url": "assets/img/jpg/encart.jpg", "legende": "Encart" }, { "url": "assets/img/jpg/bandeau.jpg", "legende": "Bandeau" }]
-},{
-    "name": "Axionométrie",
-    "tags": ["graph"],
-    "img": "assets/img/png/wang_celine_MMI2_A2_colorisation.png",
-    "description": "J'ai d'abord réalisé ce travail sur papier à l'aide d'un quadrillage, puis je suis passée sur Photoshop pour la colorisation. Les constructions des différents étudiants sont ensuite assemblés pour créer une ville sur une grande affiche.",
-    "images": [{ "url": "assets/img/png/wang_celine_MMI2_A2_colorisation.png", "legende": "Rendu final" }]
-},{
-    "name": "Book d'écriture",
-    "tags": ["graph"],
-    "img": "assets/img/png/books1.png",
-    "description": "Ces travaux ont été réalisé suite à l'écriture de plusieurs textes en cours de communication pratique durant les 2 années de DUT MMI. Je devais présenter les textes graphiquement dans un book. Les choix graphiques opérés ont contribué à mettre en valeur les textes en éclairant ou en orientant le sens.\n Le premier book d'écriture contient les textes suivants : \n Le texte du médecin (Chaval) et une réécriture du texte\nUne liste\nDes sigles et acronymes\nL'acrostiche de mon prénom\nUne définition de mot oublié\nUne écriture collaborative\n\nLe deuxième book d'écriture comporte les textes suivants :\nUn poème d'anniversaire\nUne question/réponse\nUn poème fondu\nUn haïku\nUn locurime\nUn limick\nUn poème ambulant",
-    "images": [{ "url": "assets/img/png/books1.png", "legende": "Premier book" }, { "url": "assets/img/png/books3.png", "legende": "Deuxième book" }],
-    "buttons": [{
-        "name": "Voir le premier book d'écriture",
-        "icon": "launch",
-        "link": "https://celinewangjv.fr/lien/Book/bookS1.pdf"
+        "name": "PFE - Booom!",
+        "tags": ["gd","ld", "graph"],
+        "img": "assets/img/png/booomtitle.png",
+        "description": "Booom! est un jeu que j'ai créé lors de mon projet de fin d'études en licence pro avec 4 autres personnes. J'étais Game Designeuse et Level Designeuse, j'ai également intégré le niveau 2 dans le jeu et créé la Terre en 3D.",
+        "images": [{ "url": "assets/img/png/booomgdd.png", "legende": "GDD" },{ "url": "assets/img/png/booomtitle.png", "legende": "Jeu" }],
+        "buttons": [{
+            "name": "Accéder au GDD",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAFdX2r-cTA/PsEUfpFFtDpR3YOlYld2LQ/view?utm_content=DAFdX2r-cTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://purpleluma.itch.io/booom"}]
     },{
-        "name": "Voir le deuxième book d'écriture",
-        "icon": "launch",
-        "link": "https://celinewangjv.fr/lien/Book/bookS3.pdf"
-    }]
-},{
-    "name": "Carte de voeux",
-    "tags": ["graph"],
-    "img": "assets/img/jpg/carte.jpg",
-    "description": "Cette carte a été créée pour l'année 2021, l'année du buffle. J'ai d'abord pris un buffle comme référence, puis je l'ai dessiné et enfin j'ai tracé des formes géométriques pour le rendu final.",
-    "images": [{ "url": "assets/img/jpg/carte.jpg", "legende": "Rendu final" }],
-    "buttons": [{
-        "name": "Voir les étapes de conception",
-        "icon": "launch",
-        "link": "https://www.canva.com/design/DAETgdRg2oc/kz9M4S9sTwDF8b_5JH24Ug/edit?utm_content=DAETgdRg2oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}]
-},{
-    "name": "Site Halloween Disney",
-    "tags": ["prog"],
-    "img": "assets/img/png/halloween.png",
-    "description": "Ce site a été crée à partir d'une maquette. Les images et les polices étaient fournis, notre travail était d'écrire le HTML.",
-    "images": [{ "url": "assets/img/png/halloween.png", "legende": "Site Halloween" }],
-    "buttons": [{
-        "name": "Voir le site",
-        "icon": "launch",
-        "link": "https://celinewangjv.fr/lien/Halloween/"
-    }]
-},{
-    "name": "Interstellor",
-    "tags": ["av"],
-    "img": "assets/img/png/interstellor.png",
-    "description": "Travail réalisé de bout en bout par un groupe d'étudiants en MMI, nous avons écrit le scénario, filmé les scènes et monté la vidéo.",
-    "images": [{ "url": "assets/img/png/interstellor.png", "legende": "Interstellor" }],
-    "buttons": [{
-        "name": "Voir la vidéo",
-        "icon": "launch",
-        "link": "https://youtu.be/BF_ruI9aXJ0"}]
-},{
-    "name": "Poissons",
-    "tags": ["graph"],
-    "img": "assets/img/jpg/poissons.jpg",
-    "description": "Ce travail a été réalisé pour tester notre créativité. Il fallait créer un poisson différent pour chaque case et complexifié à chaque fois un peu plus la réflexion",
-    "images": [{ "url": "assets/img/jpg/poissons.jpg", "legende": "Petits poissons" }]
-},{
-    "name": "Ramifications",
-    "tags": ["graph"],
-    "img": "assets/img/jpg/wang_celine_ramifications.jpg",
-    "description": "Ce travail a été fait en vectoriel sur Photoshop, le but était de créer un labyrinthe grâce aux branches. Une autre ramification pouvait être collé sur le bord pour former un plus grand labyrinthe.",
-    "images": [{ "url": "assets/img/jpg/wang_celine_ramifications.jpg", "legende": "Racines d'un arbre" }]
-},{
-    "name": "Warhol",
-    "tags": ["graph"],
-    "img": "assets/img/jpg/Warhol.jpg",
-    "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
-    "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
-},{
-    "name": "Ludum Dare 49",
-    "tags": ["gj","gd","prog"],
-    "img": "assets/img/png/taleofozelore_orig.png",
-    "description": "Le Ludum Dare est une Game Jam qui se déroule 2 fois par an. En 2021, j'ai participé à la 49ème édition, le thème était \"Unstable\". Dans la composition de notre équipe, j'étais programmeuse. Nous avons voulu crée un jeu de combat en multijoueur où les joueurs incarnaient des mages. En début de partie, ils choisissent deux éléments qu'ils veulent utiliser. Chaque élément produit un effet différent. La combinaison de certains sorts permettaient de blesser l'adversaire, défendre le lanceur mais également le blesser. Un vortex permettait aux joueurs de changer d'éléments pour attaquer. Malheureusement, nous n'avons pas pu établir un bon scoop et le jeu n'a pas été mis en ligne.",
-    "images": [{ "url": "assets/img/png/taleofozelore_orig.png", "legende": "Tales of Ozelore" }]
-}
+        "name": "Projet sur Unreal Engine",
+        "tags": ["ld", "prog"],
+        "img": "assets/img/png/PF_LD.png",
+        "description": "Lors de ma formation en licence pro, j'ai appris à utiliser Unreal Engine et pour mettre en pratique mes connaissances, j'ai conçu et intégré un niveau entier à l'aide d'Unreal Engine.",
+        "images": [{ "url": "assets/img/png/PF_LD.png", "legende": "Aperçu du jeu" }],
+        "buttons": [{
+            "name": "Vidéo walkthrough du jeu",
+            "icon": "launch",
+            "link": "https://drive.google.com/file/d/1wCc-VKBOar-jO38KbXDsegSqak0KdtnF/view?usp=share_link"}]
+    },{
+        "name": "GGJ - Cours-je ?",
+        "tags": ["gj","gd","graph"],
+        "img": "assets/img/png/coursje.png",
+        "description": "2 semaines après la Global Game Jam, avec un groupe de 4 personnes, nous avons créé un jeu en 48h et Cours-je est né.",
+        "images": [{ "url": "assets/img/png/coursjetitle.png", "legende": "Menu" },{ "url": "assets/img/png/coursjejeu.png", "legende": "Jeu" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://alans-tagioo.itch.io/cours-je"}]
+    },{
+        "name": "Level Design d'un niveau de Left4Dead",
+        "tags": ["ld"],
+        "img": "assets/img/png/BBGL4D.png",
+        "description": "Ce travail a été réalisé lors d'une conception de niveau en groupe pour Left4Dead, je me suis occupée de la première partie sur les 3 parties au total.",
+        "images": [{ "url": "assets/img/png/BBGL4D.png", "legende": "Bubble Diagram" }, { "url": "assets/img/png/2L4D.png", "legende": "Première partie du niveau" }, { "url": "assets/img/png/1L4D.png", "legende": "Deuxième partie du niveau" }]
+    },{
+        "name": "Unijam 2022",
+        "tags": ["gj","gd","graph"],
+        "img": "assets/img/png/lifeline.png",
+        "description": "Lifeline a été crée durant l'Unijam 2022. Le thème de la jam était \"La distance rend toute chose infiniment plus précieuse\". Nous étions une équipe composée de 2 personnes de la LPJV, 2 personnes de JIN et 3 personnes de l'ENSIIE. J'avais les rôles de Game designeuse et de graphiste. Le but du jeu est de protéger notre maison des cauchemars grâce à la \"Lifeline\", plus la Lifeline est longue plus elle fait de dégâts aux cauchemars. Attention, la Lifeline se raccourcit si les joueurs prennent des dégâts.",
+        "images": [{ "url": "assets/img/png/lifeline.png", "legende": "Lifeline" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://thearias09.itch.io/lifeline"
+        }]
+    },{
+        "name": "Rencontre franco-allemande",
+        "tags": ["gj","gd"],
+        "img": "assets/img/png/thegarden.png",
+        "description": "En novembre 2022, j'ai participé à une rencontre franco-allemande organisé par Spiel Fabrique au CNAM d'Angoulême. C'était une mini jam dont le but était de créer un concept de jeu à propos de l'écologie, le public cible était des adolescents de 14 ans. J'étais dans une équipe composé de 2 allemands et de 1 française, nous avons donc communiqué en anglais tout au long de la jam.",
+        "images": [{ "url": "assets/img/png/thegarden.png", "legende": "The Garden" }],
+        "buttons": [{
+            "name": "Voir le concept",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAFQ43Qz7VQ/HP_XIVqtyk_tUNQl_717hw/view?utm_content=DAFQ43Qz7VQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        }]
+    },{
+        "name": "The Dark Labyrinth",
+        "tags": ["gd"],
+        "img": "assets/img/png/thedarklabyrinth.png",
+        "description": "The Dark Labyrinth est un concept de jeu créé à deux. Le but était d'exploiter au maximum un support choisi aléatoirement. Nous sommes tombés sur le support hybride, c'est à dire le support devait comporter au moins un élément virtuel et au moins un élément physique.",
+        "images": [{ "url": "assets/img/png/thedarklabyrinth.png", "legende": "The Dark Labyrinth" }],
+        "buttons": [{
+            "name": "Voir le concept",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAFTI83qPqA/P3DAVny11ecCc2cdz7G9Aw/view?utm_content=DAFTI83qPqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        }]
+    },{
+        "name": "Gobelina",
+        "tags": ["js","gj","gd","graph"],
+        "img": "assets/img/png/gobelina.png",
+        "description": "Gobelina est un jeu de société créé en équipe lors d'une Game Jam de 5 jours. Le thème était \"The more you have, the worse it gets\". Le but de notre jeu est de finir second dans le classement de réputation, il faut donc bien gérer sa réputation. Je me suis occupée de l'écriture des règles, de la création des cartes, de la plastification des cartes et du plateau et de la découpe des cartes et des jetons en 3D.",
+        "images": [{ "url": "assets/img/png/gobelinaR.png", "legende": "Règles du jeu" }, { "url": "assets/img/jpg/cartesplateau.jpg", "legende": "Cartes et plateau" }, { "url": "assets/img/jpg/regles.jpg", "legende": "Livre des règles et jetons en bois" }, { "url": "assets/img/jpg/jetons.jpg", "legende": "Jetons du jeu" }]
+    },{
+        "name": "Kirby's Adventure",
+        "tags": ["gd","ld","graph","prog"],
+        "img": "assets/img/png/jeu.png",
+        "description": "Kirby's Adventure est un jeu codé entièrement en javascript que j'ai créé en 1ère année de DUT MMI. Les étudiants devaient respecter des contraintes : nous devons mettre en avant les collisions avec le personnage jouable et avoir au moins 2 zones différentes dans le jeu.",
+        "images": [{ "url": "assets/img/png/jeu.png", "legende": "Kirby's Adventure" }],
+        "buttons": [{
+            "name": "Accéder au jeu",
+            "icon": "launch",
+            "link": "https://celinewangjv.fr/lien/Kirby"
+        }]
+    },{
+        "name": "VRGame - PocketMonster",
+        "tags": ["gd","graph"],
+        "img": "assets/img/png/pocketmonster.png",
+        "description": "PocketMonster est un jeu en réalité virtuelle crée en cours. Je me suis occupée de la modélisation de certains PocketMonster.",
+        "images": [{ "url": "assets/img/png/pocketmonster.png", "legende": "PocketMonster" }],
+        "buttons": [{
+            "name": "Voir la vidéo",
+            "icon": "launch",
+            "link": "https://drive.google.com/file/d/1mdYSCqs-cNwBV4yvsSOvM92hcDdYba1k/view?usp=share_link"
+        }]
+    },{
+        "name": "Sequena",
+        "tags": ["gd","ld"],
+        "img": "assets/img/png/sequana.png",
+        "description": "En DUT MMI, nous avons un projet tuteuré en groupe sur 1 an et demi. Le sujet du projet est défini par le groupe et nous avons choisi de créer un jeu de découverte et d'exploration. Je me suis occupée du Level Design, j'ai d'abord fait un croquis ensuite. J'ai également participé à la création du scénario, mais nous n'avons pas pu intégré tous les élément scénaristiques dans le jeu. Nous avions prévu de créer 3 niveaux au total.",
+        "images": [{ "url": "assets/img/png/sequana.png", "legende": "Sequena" }],
+        "buttons": [{
+            "name": "Accéder au site",
+            "icon": "launch",
+            "link": "https://sequana.agence-astrae.fr/index"
+        },{
+            "name": "LD sur Figma",
+            "icon": "launch",
+            "link": "https://www.figma.com/file/JosScM9ZsOQagIe0yyImjk/D%C3%A9co-Niveau-1-Sequana?node-id=0%3A1"}]
+    },{
+        "name": "MMI Game",
+        "tags": ["js","gd"],
+        "img": "assets/img/png/mmigame.png",
+        "description": "Lors de ma dernière année de DUT MMI, j'ai créé un jeu de société en équipe avec l'équipement du FabLab de l'IUT. Avec l'aide de 3 autres personnes, j'ai créé un jeu basé sur le DUT MMI de Vélizy. Il y a donc quelques références que seuls les étudiants du DUT MMI peuvent comprendre. C'est un jeu de plateau où le but du jeu est d'arriver à terminer les tours avec au moins 8 de moyenne général. Pour gagner ou perdre des points dans la moyenne, il y a des événements que peuvent rencontrer les joueurs en tombant sur les cases correspondantes.",
+        "images": [{ "url": "assets/img/jpg/mmigame1.jpg", "legende": "Rendu final" }],
+        "buttons": [{
+            "name": "Voir le concept du jeu",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAE4T5F7JN0/YUmlRQPetRrVW3H-2-3UFA/view?utm_content=DAE4T5F7JN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"}]
+    },{
+        "name": "Affiche cinématographique",
+        "tags": ["graph"],
+        "img": "assets/img/jpg/affiche.jpg",
+        "description": "J'ai réalisé ce travail en 1ère année de DUT MMI grâce à Photoshop. Il fallait aussi créer plusieurs déclinaisons de l'affiche.",
+        "images": [{ "url": "assets/img/jpg/affiche.jpg", "legende": "Affiche" }, { "url": "assets/img/jpg/encart.jpg", "legende": "Encart" }, { "url": "assets/img/jpg/bandeau.jpg", "legende": "Bandeau" }]
+    },{
+        "name": "Axionométrie",
+        "tags": ["graph"],
+        "img": "assets/img/png/wang_celine_MMI2_A2_colorisation.png",
+        "description": "J'ai d'abord réalisé ce travail sur papier à l'aide d'un quadrillage, puis je suis passée sur Photoshop pour la colorisation. Les constructions des différents étudiants sont ensuite assemblés pour créer une ville sur une grande affiche.",
+        "images": [{ "url": "assets/img/png/wang_celine_MMI2_A2_colorisation.png", "legende": "Rendu final" }]
+    },{
+        "name": "Book d'écriture",
+        "tags": ["graph"],
+        "img": "assets/img/png/books1.png",
+        "description": "Ces travaux ont été réalisé suite à l'écriture de plusieurs textes en cours de communication pratique durant les 2 années de DUT MMI. Je devais présenter les textes graphiquement dans un book. Les choix graphiques opérés ont contribué à mettre en valeur les textes en éclairant ou en orientant le sens.\n Le premier book d'écriture contient les textes suivants : \n Le texte du médecin (Chaval) et une réécriture du texte\nUne liste\nDes sigles et acronymes\nL'acrostiche de mon prénom\nUne définition de mot oublié\nUne écriture collaborative\n\nLe deuxième book d'écriture comporte les textes suivants :\nUn poème d'anniversaire\nUne question/réponse\nUn poème fondu\nUn haïku\nUn locurime\nUn limick\nUn poème ambulant",
+        "images": [{ "url": "assets/img/png/books1.png", "legende": "Premier book" }, { "url": "assets/img/png/books3.png", "legende": "Deuxième book" }],
+        "buttons": [{
+            "name": "Voir le premier book d'écriture",
+            "icon": "launch",
+            "link": "https://celinewangjv.fr/lien/Book/bookS1.pdf"
+        },{
+            "name": "Voir le deuxième book d'écriture",
+            "icon": "launch",
+            "link": "https://celinewangjv.fr/lien/Book/bookS3.pdf"
+        }]
+    },{
+        "name": "Carte de voeux",
+        "tags": ["graph"],
+        "img": "assets/img/jpg/carte.jpg",
+        "description": "Cette carte a été créée pour l'année 2021, l'année du buffle. J'ai d'abord pris un buffle comme référence, puis je l'ai dessiné et enfin j'ai tracé des formes géométriques pour le rendu final.",
+        "images": [{ "url": "assets/img/jpg/carte.jpg", "legende": "Rendu final" }],
+        "buttons": [{
+            "name": "Voir les étapes de conception",
+            "icon": "launch",
+            "link": "https://www.canva.com/design/DAETgdRg2oc/kz9M4S9sTwDF8b_5JH24Ug/edit?utm_content=DAETgdRg2oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}]
+    },{
+        "name": "Site Halloween Disney",
+        "tags": ["prog"],
+        "img": "assets/img/png/halloween.png",
+        "description": "Ce site a été crée à partir d'une maquette. Les images et les polices étaient fournis, notre travail était d'écrire le HTML.",
+        "images": [{ "url": "assets/img/png/halloween.png", "legende": "Site Halloween" }],
+        "buttons": [{
+            "name": "Voir le site",
+            "icon": "launch",
+            "link": "https://celinewangjv.fr/lien/Halloween/"
+        }]
+    },{
+        "name": "Interstellor",
+        "tags": ["av"],
+        "img": "assets/img/png/interstellor.png",
+        "description": "Travail réalisé de bout en bout par un groupe d'étudiants en MMI, nous avons écrit le scénario, filmé les scènes et monté la vidéo.",
+        "images": [{ "url": "assets/img/png/interstellor.png", "legende": "Interstellor" }],
+        "buttons": [{
+            "name": "Voir la vidéo",
+            "icon": "launch",
+            "link": "https://youtu.be/BF_ruI9aXJ0"}]
+    },{
+        "name": "Poissons",
+        "tags": ["graph"],
+        "img": "assets/img/jpg/poissons.jpg",
+        "description": "Ce travail a été réalisé pour tester notre créativité. Il fallait créer un poisson différent pour chaque case et complexifié à chaque fois un peu plus la réflexion",
+        "images": [{ "url": "assets/img/jpg/poissons.jpg", "legende": "Petits poissons" }]
+    },{
+        "name": "Ramifications",
+        "tags": ["graph"],
+        "img": "assets/img/jpg/wang_celine_ramifications.jpg",
+        "description": "Ce travail a été fait en vectoriel sur Photoshop, le but était de créer un labyrinthe grâce aux branches. Une autre ramification pouvait être collé sur le bord pour former un plus grand labyrinthe.",
+        "images": [{ "url": "assets/img/jpg/wang_celine_ramifications.jpg", "legende": "Racines d'un arbre" }]
+    },{
+        "name": "Warhol",
+        "tags": ["graph"],
+        "img": "assets/img/jpg/Warhol.jpg",
+        "description": "Le but de ce travail était de créer une oeuvre semblable à celle d'Andy Warhol. Les couleurs sont en CMJN.",
+        "images": [{ "url": "assets/img/jpg/Warhol.jpg", "legende": "Warhol" }]
+    },{
+        "name": "Ludum Dare 49",
+        "tags": ["gj","gd","prog"],
+        "img": "assets/img/png/taleofozelore_orig.png",
+        "description": "Le Ludum Dare est une Game Jam qui se déroule 2 fois par an. En 2021, j'ai participé à la 49ème édition, le thème était \"Unstable\". Dans la composition de notre équipe, j'étais programmeuse. Nous avons voulu crée un jeu de combat en multijoueur où les joueurs incarnaient des mages. En début de partie, ils choisissent deux éléments qu'ils veulent utiliser. Chaque élément produit un effet différent. La combinaison de certains sorts permettaient de blesser l'adversaire, défendre le lanceur mais également le blesser. Un vortex permettait aux joueurs de changer d'éléments pour attaquer. Malheureusement, nous n'avons pas pu établir un bon scoop et le jeu n'a pas été mis en ligne.",
+        "images": [{ "url": "assets/img/png/taleofozelore_orig.png", "legende": "Tales of Ozelore" }]
+    }
 ]
