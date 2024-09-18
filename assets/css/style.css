@@ -666,6 +666,7 @@ footer {
   }
 }
 */
+/*
 @media screen and (max-width: 767px) {
   header {
     flex-direction: column;
@@ -675,7 +676,7 @@ footer {
   }
   header ul {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     width: 100%;
     margin: 0;
     padding: 0;
@@ -718,4 +719,5 @@ footer {
     width: 90%;
     height: auto;
   }
-}/*# sourceMappingURL=style.css.map */
+  
+}*//*# sourceMappingURL=style.css.map */
