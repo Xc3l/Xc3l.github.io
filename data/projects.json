@@ -1,17 +1,10 @@
 [
     {
-        "name": "Quelques dessins",
-        "tags": ["graph"],
-        "img": "",
-        "description": "Voici quelques dessins sur différents thèmes.",
-        "images": [{ "url": "", "legende": "" },{ "url": "", "legende": "" },{ "url": "", "legende": "" },{ "url": "", "legende": "" }]
-    },
-    {
         "name": "Twinkling Faith",
         "tags": ["gd", "gj"],
-        "img": "",
+        "img": "assets/img/png/tflogo.png",
         "description": "Twinkling Faith est un jeu créé lors de la GMTK Game Jam 2024.Le thème est Build to Scale. Nous sommes donc partis sur un jeu avec un compte de nombre de pas. Le but est d'avoir exactement le nombre de pas écrit sur la porte pour pouvoir l'ouvrir et accéder au prochain niveau.",
-        "images": [{ "url": "assets/img/png/tf1.png", "legende": "Twinkle Faith" }],
+        "images": [{ "url": "assets/img/png/tflogo.png", "legende": "Twinkling Faith Logo" },{ "url": "assets/img/png/tf1.png", "legende": "Twinkle Faith" }],
         "buttons": [{
             "name": "Accéder au jeu",
             "icon": "launch",
@@ -21,9 +14,9 @@
     {
         "name": "TekuTeku : Fishing Adventure",
         "tags": ["gd"],
-        "img": "",
+        "img": "assets/img/png/tktklogo.png",
         "description": "TekuTeku : Fishing Adventure est un jeu d'aventure. Vous avez pour mission de retrouver l'élu, pour cela vous devez parcourir le monde en résolvant des énigmes.",
-        "images": [{ "url": "", "legende": "TekuTeku : Fishing Adventure Menu" }],
+        "images": [{ "url": "assets/img/png/tktk1.png", "legende": "TekuTeku : Fishing Adventure Menu" },{ "url": "assets/img/png/tktk2.png", "legende": "Vue depuis un ponton" },{ "url": "assets/img/png/tktk3.png", "legende": "Vue sur le lac" },{ "url": "assets/img/png/tktk4.png", "legende": "Vue d'un champ de fleurs" }],
         "buttons": [{
             "name": "Accéder au jeu",
             "icon": "launch",
@@ -33,9 +26,9 @@
     {
         "name": "Genesis",
         "tags": ["gd", "ld"],
-        "img": "",
+        "img": "assets/img/png/genesislogo.png",
         "description": "Genesis est travail collaboratif durant mon master MAJIC. J'ai essentiellement contribué au concept des mécaniques, à la création du level design et son intégration. Suite au manque de développement dans le projet, nous n'avons pas pu intégrer toutes les mécaniques.",
-        "images": [{ "url": "", "legende": "Genesis Logo" }],
+        "images": [{ "url": "assets/img/png/genesislogo.png", "legende": "Genesis Logo" },{ "url": "assets/img/png/genesis1.png", "legende": "Marche" },{ "url": "assets/img/png/genesis2.png", "legende": "Combat" },{ "url": "assets/img/png/genesis3.png", "legende": "Sol" }],
         "buttons": [{
             "name": "Accéder au jeu",
             "icon": "launch",
@@ -45,9 +38,9 @@
     {
         "name": "Pafia Masta",
         "tags": ["gd"],
-        "img": "",
+        "img": "assets/img/png/pmlogo.png",
         "description": "Pafia Masta est un jeu narratif, où vous incarnez la détective Gnocchitalian. Partez à la recherche de la vérité dans cet univers loufoque de pâtes.",
-        "images": [{ "url": "assets/img/png/pafiamastabanner.png", "legende": "Pafia Masta Logo" }],
+        "images": [{ "url": "assets/img/png/pafiamastabanner.png", "legende": "Pafia Masta Logo" },{ "url": "assets/img/png/pm1.png", "legende": "Pafia Masta - Scène de crime" },{ "url": "assets/img/png/pm2.png", "legende": "Pafia Masta - Dialogue" },{ "url": "assets/img/png/pm3.png", "legende": "Pafia Masta - Fiche information" }],
         "buttons": [{
             "name": "Accéder au jeu",
             "icon": "launch",
