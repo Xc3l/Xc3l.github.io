@@ -11,7 +11,7 @@
         "tags": ["gd", "gj"],
         "img": "",
         "description": "Twinkling Faith est un jeu créé lors de la GMTK Game Jam 2024.Le thème est Build to Scale. Nous sommes donc partis sur un jeu avec un compte de nombre de pas. Le but est d'avoir exactement le nombre de pas écrit sur la porte pour pouvoir l'ouvrir et accéder au prochain niveau.",
-        "images": [{ "url": "", "legende": "Twinkle Faith Menu" }],
+        "images": [{ "url": "assets/img/png/tf1.png", "legende": "Twinkle Faith" }],
         "buttons": [{
             "name": "Accéder au jeu",
             "icon": "launch",
